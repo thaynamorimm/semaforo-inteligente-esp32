@@ -34,7 +34,7 @@ A montagem foi realizada virtualmente no Wokwi, utilizando a placa ESP32 como un
 
 As conexões foram realizadas entre os pinos GPIO da ESP32 e os LEDs, utilizando resistores para limitar a corrente elétrica. Os resistores foram conectados ao terminal GND da placa conforme a montagem simulada.
 
-![Circuito do semáforo desenvolvido no Wokwi](docs/circuito-wokwi.png)
+![Circuito do Semáforo com ESP32](./docs/circuito-wokwi.png)
 
 *Figura 1 — Circuito eletrônico do semáforo simulado na plataforma Wokwi.*
 
